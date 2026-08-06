@@ -1,4 +1,6 @@
+## Metadata & EXIF
 # Awesome Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [Metadata Remover](https://metadataremover.ai/) 🔒 — Inspect and remove image metadata locally in the browser; no signup required.
 
 > A curated list of tools for compressing, converting, resizing, editing and inspecting images.
 
